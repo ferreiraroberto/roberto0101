@@ -1,7 +1,7 @@
 ### Hi 👋👋
 
 - I’m Roberto Ferreira, i'm an Information Systems student at IFAL - Instituto Federal de Alagoas.
-### Contac with me
+### Contact with me
 <div>
       <a href="https://www.linkedin.com/in/roberto-ferreira-de-assis-filho-98a971193" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
         <a href = "mailto:rfaf1@aluno.ifal.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

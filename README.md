@@ -3,9 +3,6 @@
 - I’m Roberto Ferreira, i'm an Information Systems student at IFAL - Instituto Federal de Alagoas.
 ### Contac with me
 <p align=midlle>
-    <a href = "mailto:rfaf1@aluno.ifal.edu.br?" target="_blank" title="E-mail">
-        <img height=25 align="center" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rfaf1@aluno.ifal.edu.br?subject=">
-    </a>
       <a href = "https://www.linkedin.com/in/roberto-ferreira-de-assis-filho-98a971193" target="_blank" "title="linkedin"</a>
         <img height=25 align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
